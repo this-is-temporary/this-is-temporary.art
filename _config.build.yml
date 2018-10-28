@@ -5,7 +5,7 @@
 # Make sure it's with `https`, so assets are served from HTTPS.
 # Also, make sure to add that base URL in src/CNAME as well (e.g. `example.com`
 # , that is - without the `https` prefix.)
-url: https://example.com
+url: https://this-is-temporary.art
 
 # Hides your drafts and future posts
 future: false
